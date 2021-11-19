@@ -1,0 +1,11 @@
+{
+    "creators": [
+        {
+            "name": "Joschua Dilly",
+            "affiliation": "CERN",
+            "orcid": "0000-0001-7864-5448"
+        }
+    ],
+    "title": "plofeld",
+    "description": "Python 3 plotting library for physical fields."
+}

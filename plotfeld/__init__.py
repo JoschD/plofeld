@@ -1,0 +1,7 @@
+__title__ = "plofeld"
+__author__ = "JoschD"
+__description__ = "Plotting functions for physical fields."
+__url__ = f"https://github.com/{__author__}/{__title__}"
+__version__ = "0.0.0"
+__author_email__ = f"{__author__}@github.com"
+__license__ = "MIT"

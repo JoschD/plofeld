@@ -1,2 +1,3 @@
 # plofeld
-One Of These Days We Must Invent A Faster-Working Field Plotter!
+
+> "One of these days we must invent a faster-working field plotter!"
