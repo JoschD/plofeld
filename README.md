@@ -1,8 +1,14 @@
 # plofeld
+[![Cron Testing](https://github.com/JoschD/plofeld/workflows/Cron%20Testing/badge.svg)](https://github.com/JoschD/plofeld/actions?query=workflow%3A%22Cron+Testing%22)
+[![Code Climate coverage](https://img.shields.io/codeclimate/coverage/JoschD/plofeld.svg?style=popout)](https://codeclimate.com/github/JoschD/plofeld)
+[![Code Climate maintainability (percentage)](https://img.shields.io/codeclimate/maintainability-percentage/JoschD/plofeld.svg?style=popout)](https://codeclimate.com/github/JoschD/plofeld)
+[![GitHub last commit](https://img.shields.io/github/last-commit/JoschD/plofeld.svg?style=popout)](https://github.com/JoschD/plofeld/)
+[![GitHub release](https://img.shields.io/github/release/JoschD/plofeld.svg?style=popout)](https://github.com/JoschD/plofeld/)
+<!-- [![DOI](https://zenodo.org/badge/DOI/.svg)](https://doi.org/) -->
+
 
 > "One of these days we must invent a faster-working field plotter!"
 
----
  
 ``plofeld`` is a python plotting library for physical fields.
 
@@ -16,6 +22,12 @@ pip install plofeld
 
 required are `numpy, scipy, pandas, matplotlib`.
 
+### Warning: Still under development!
+
+This package is in the early stages of development.
+API changes might occur at any new push/release.
+If you have a version running to your liking, don't forget to write down the version number to reproduce your results.
+Apologies for the inconvenience.
 
 ## Usage
 
@@ -56,3 +68,5 @@ if __name__ == '__main__':
 ```
 
 This code and more can be found in the [`examples`](https://github.com/JoschD/plofeld/tree/master/examples) folder.
+
+
